@@ -19,8 +19,8 @@ Here are some of the projects featured in my portfolio:
   - Interactive navigation menu
   - Custom animations and styling
   - About Me, Projects, and GitHub sections
-- **Live Demo:** [Link to Live Site]([https://kannanramu1.github.io/final])
-- **GitHub Repository:** [Link to Repo]([#](https://github.com/KannanRamu1/KannanRamu1.github.io/tree/main?tab=readme-ov-file))
+- **Live Demo:** [Link to Live Site](https://kannanramu1.github.io/final)
+- **GitHub Repository:** [Link to Repo](https://github.com/KannanRamu1/KannanRamu1.github.io/tree/main?tab=readme-ov-file)
 
 ---
 
